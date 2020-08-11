@@ -1,0 +1,2 @@
+# lumberjack
+small algorithmic exercice
